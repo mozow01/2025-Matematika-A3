@@ -67,10 +67,6 @@ Javítás kezdeményezése, ha a vizsgát **nem** teljesítette (azaz **v**<24 e
 ## Neptun tematika
 1. Differenciálegyenletek osztályozása. Szétválasztható és arra visszavezethető (homogén fokszámú és lineáris  argumentumú)  differenciálegyenletek. Az egzakt differenciálegyenlet és annak megoldása. Multiplikátorral egzakttá tehető differenciálegyenlet.
 
-2. Lineáris differenciálegyenletek általános megoldásának szerkezete. Az elsőrendű inhomogén lineáris egyenlet. Állandók variálásának módszere. Állandó együtthatós másodrendű lineáris differenciálegyenlet. Másodrendű, inhomogén egyenlet megoldása próbafüggvénnyel. Állandó együtthatós homogén lineáris rendszerek megoldása különböző valós sajátértékek esetén. Inhomogén egyenletrendszerek partikuláris megoldásának keresése állandók variálásával.
-
-3. A Laplace-transzformáció.  Definíció, műveleti szabályok. Derivált Laplace-transzformáltja.  Elemi függvények transzformáltjai. Lineáris differenciálegyenletek és egyenletrendszerek megoldása Laplace- transzformációval.
-
 4. Görbék és felületek, és ezek irányítása és mértéke. Skaláris- és vektormezők.
 
 5. Vektormezők differenciálása, divergencia és rotáció. Forrás- és örvénysűrűség.
@@ -78,4 +74,9 @@ Javítás kezdeményezése, ha a vizsgát **nem** teljesítette (azaz **v**<24 e
 6. Görbe- és felületmenti integrálok. Integrálátalakító tételek. Gauss és Stokes tételei.
 
 7. Potenciálelmélet. Konzervatív vektormezők, potenciál. Görbementi integrál függetlensége az úttól.
+
+2. Lineáris differenciálegyenletek általános megoldásának szerkezete. Az elsőrendű inhomogén lineáris egyenlet. Állandók variálásának módszere. Állandó együtthatós másodrendű lineáris differenciálegyenlet. Másodrendű, inhomogén egyenlet megoldása próbafüggvénnyel. Állandó együtthatós homogén lineáris rendszerek megoldása különböző valós sajátértékek esetén. Inhomogén egyenletrendszerek partikuláris megoldásának keresése állandók variálásával.
+
+3. A Laplace-transzformáció.  Definíció, műveleti szabályok. Derivált Laplace-transzformáltja.  Elemi függvények transzformáltjai. Lineáris differenciálegyenletek és egyenletrendszerek megoldása Laplace- transzformációval.
+
 
