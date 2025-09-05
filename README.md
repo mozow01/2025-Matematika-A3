@@ -34,6 +34,8 @@ Paul Dawkins szuper jegyzete: https://tutorial.math.lamar.edu/
 
 ## Tárgykövetelmények
 
+https://github.com/mozow01/2025-Matematika-A3/blob/main/2025_Matematika_A3.pdf
+
 ### Az _aláírás_ megszerzésének feltételei
 1. A zh teljesítése, azaz **legalább 18 pont** elérése a 60-ból. 
 2. Jelenlét mind a gyakorlatok, mind az előadások legalább 70%-án.
