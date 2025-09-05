@@ -28,7 +28,7 @@ VIK wiki: https://vik.wiki/Matematika_A3_villamosm%C3%A9rn%C3%B6k%C3%B6knek (a n
 
 Hasznos még, de régi http://wiki.math.bme.hu/view/Matematika_A3a_2008
 
-https://nmarci.web.elte.hu/dirs/jegyzetek/Vektor.pdf
+Szemléletes, hasznos vektoranalízis: https://nmarci.web.elte.hu/dirs/jegyzetek/Vektor.pdf
 
 Paul Dawkins szuper jegyzete: https://tutorial.math.lamar.edu/
 
